@@ -33,6 +33,10 @@ import scene9color from '../assets/images/scene9-color.png';
 import scene10 from '../assets/images/scene10.png';
 import scene10color from '../assets/images/scene10-color.png';
 
+
+import scene11 from '../assets/images/scene11.jpg';
+import scene11color from '../assets/images/scene11-color.jpg';
+
 //image credit mala project
 import scene12 from '../assets/images/scene12.png';
 import scene12color from '../assets/images/scene12-color.png';
@@ -101,7 +105,7 @@ const Element = () => {
                 <Hover img1={scene8} img2={scene8color} bubble={bubble8} text={textArray[7]}/>
                 <Hover img1={scene9} img2={scene9color} bubble={bubble9} text={textArray[8]}/>
                 <Hover img1={scene10} img2={scene10color}  bubble={bubble10} text={textArray[9]}/>
-                <Hover img1={img1} img2={img2} bubble={bubble1} text={textArray[10]}/>
+                <Hover img1={scene11} img2={scene11color} bubble={bubble1} text={textArray[10]}/>
                 <Hover img1={scene12} img2={scene12color}  bubble={bubble1} text={textArray[11]}/>
                 <Hover img1={scene13} img2={scene13color}  bubble={bubble1} text={textArray[12]}/>
                 <Hover img1={scene14} img2={scene14color}  bubble={bubble1} text={textArray[13]}/>
