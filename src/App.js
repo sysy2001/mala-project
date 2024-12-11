@@ -20,7 +20,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-     <h1 className="text-5xl font-editor">  Mala Project</h1>
+     {/* <h1 className="text-5xl font-editor">  Mala Project</h1> */}
       <Element/>
     </div>
   );
