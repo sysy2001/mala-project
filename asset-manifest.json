@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/mala-project/static/css/main.6a06c4ee.css",
+    "main.js": "/mala-project/static/js/main.d9f572b0.js",
+    "static/js/453.ad6eb26e.chunk.js": "/mala-project/static/js/453.ad6eb26e.chunk.js",
+    "static/media/scene2-color.jpg": "/mala-project/static/media/scene2-color.efc2435a24ef3e42e708.jpg",
+    "static/media/scene3-color.jpg": "/mala-project/static/media/scene3-color.8f288463231a8d298b76.jpg",
+    "static/media/scene3.jpg": "/mala-project/static/media/scene3.f016bea4157c3e63ad88.jpg",
+    "static/media/scene2.jpg": "/mala-project/static/media/scene2.0388783a6c43f3e90637.jpg",
+    "static/media/scene6-color.jpg": "/mala-project/static/media/scene6-color.cbcb277ccdd061f1e954.jpg",
+    "static/media/bok-choy.png": "/mala-project/static/media/bok-choy.1f5ba7bd3b1110f8f831.png",
+    "static/media/scene6.jpg": "/mala-project/static/media/scene6.81bde1755eaa91cf2285.jpg",
+    "static/media/temp2.png": "/mala-project/static/media/temp2.40127c4f9c4b3a904f79.png",
+    "static/media/scene5-color.jpg": "/mala-project/static/media/scene5-color.76adcac73b7fd2e15c71.jpg",
+    "static/media/scene5.jpg": "/mala-project/static/media/scene5.c27e822210b0a58f8954.jpg",
+    "static/media/mushroom.png": "/mala-project/static/media/mushroom.2bc7e29f2b4bc08a36de.png",
+    "static/media/drumstick.png": "/mala-project/static/media/drumstick.54bc01d474460e46ca1d.png",
+    "static/media/scallop.png": "/mala-project/static/media/scallop.57765b1cf8d53d5e107e.png",
+    "static/media/scene8.jpg": "/mala-project/static/media/scene8.05102b9fbc493135b2e3.jpg",
+    "static/media/scene8-color.jpg": "/mala-project/static/media/scene8-color.170e5a4687159000f888.jpg",
+    "static/media/califlower.png": "/mala-project/static/media/califlower.14181d038b358bb901d7.png",
+    "static/media/woodear.png": "/mala-project/static/media/woodear.af1eaaeb7ff89cec97ee.png",
+    "static/media/beef.png": "/mala-project/static/media/beef.c6add8976f1744c5ed83.png",
+    "static/media/cabbage.png": "/mala-project/static/media/cabbage.d52b83036ac3ae325df9.png",
+    "static/media/lamb.png": "/mala-project/static/media/lamb.48207a7b43aae78780c9.png",
+    "static/media/chicken_heart.png": "/mala-project/static/media/chicken_heart.67265216702760a932bd.png",
+    "static/media/temp1.png": "/mala-project/static/media/temp1.44837bf679f50fc9df61.png",
+    "static/media/TerzaReader-LightItalic-Trial.otf": "/mala-project/static/media/TerzaReader-LightItalic-Trial.cf41b219dd6b0c49ce07.otf",
+    "static/media/TerzaEditor-LightItalic-Trial.otf": "/mala-project/static/media/TerzaEditor-LightItalic-Trial.31e51d92a6ffb6b0dade.otf",
+    "static/media/text.txt": "/mala-project/static/media/text.c5c1f629507cd43f7e37.txt",
+    "static/media/logo.svg": "/mala-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mala-project/index.html",
+    "main.6a06c4ee.css.map": "/mala-project/static/css/main.6a06c4ee.css.map",
+    "main.d9f572b0.js.map": "/mala-project/static/js/main.d9f572b0.js.map",
+    "453.ad6eb26e.chunk.js.map": "/mala-project/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a06c4ee.css",
+    "static/js/main.d9f572b0.js"
+  ]
+}
